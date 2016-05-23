@@ -1,0 +1,18 @@
+#siteContent h1 {
+  color: #fcf9fc;
+  font-family: 'Comic Sans MS',Cursive;
+  font-style: italic;
+}
+
+.field-item p {
+  color: #fcf9fc;
+}
+
+.form-item label {
+  color: #fcf9fc;
+}
+
+.form-item .description {
+  color: #a6a3a6;
+}
+

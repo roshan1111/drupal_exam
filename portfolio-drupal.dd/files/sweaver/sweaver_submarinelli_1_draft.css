@@ -1,0 +1,30 @@
+#siteContent h1 {
+  font-style: italic;
+  font-weight: normal;
+  background-color: #3d5a70;
+  color: #fafafa;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-top-color: #054c82;
+  border-right-color: #054c82;
+  border-bottom-color: #054c82;
+  border-left-color: #054c82;
+  margin-bottom: 13.8014px;
+  height: 31px;
+}
+
+#totalContainer #pageBorder {
+  font-family: 'Lucida Sans','Lucida Grande',Sans-Serif;
+  font-weight: normal;
+}
+
+#innerContent #siteContent {
+  background-color: #f2eaf2;
+}
+
+.form-item label {
+  font-family: Verdana,Geneva,Sans-Serif;
+}
+
