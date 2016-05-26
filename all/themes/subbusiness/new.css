@@ -1,0 +1,20 @@
+#ima {
+    opacity: 0.7;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+	
+	 
+}
+
+#ima:hover{
+    opacity: 1.0;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+	border-color:black;
+}
+table, th, td {
+    border: 
+0px solid black;
+}
+#lima{ height:300px;
+width:300px; }
+#aima{ height:290px;
+width:290px; }
